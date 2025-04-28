@@ -50,6 +50,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
 
+## ⚡ Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
+
+
 <!--
 ## Hi there 👋
 
