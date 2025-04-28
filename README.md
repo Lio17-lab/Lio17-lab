@@ -50,6 +50,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
 
+
 ## ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Lio17-lab/Lio17-lab](https://github.com/Lio17-lab/Lio17-lab)<br>
@@ -58,6 +59,10 @@
 4. ⬆️ Pushed 1 commit(s) to [Lio17-lab/miPrimerRepo](https://github.com/Lio17-lab/miPrimerRepo)<br>
 5. ❗️ Opened issue [#4](https://github.com/Lio17-lab/miPrimerRepo/issues/4) in [Lio17-lab/miPrimerRepo](https://github.com/Lio17-lab/miPrimerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
 
 
 <!--
