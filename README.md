@@ -65,6 +65,10 @@ Last Updated: Monday, April 28th, 2025, 5:18:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
+## 📞 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-martinez-chavez/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lio.data17@gmail.com)
+
 <!--
 ## Hi there 👋
 
